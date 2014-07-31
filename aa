@@ -18,4 +18,6 @@ Ubuntu One
 aa
 .git
 
-add change
+add changebin    dev   initrd.img      lost+found  opt   run   sys  var
+boot   etc   initrd.img.old  media       proc  sbin  tmp  vmlinuz
+cdrom  home  lib             mnt         root  srv   usr  vmlinuz.old
